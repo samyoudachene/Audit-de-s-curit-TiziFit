@@ -1,0 +1,4 @@
+#After audit :
+FLASK_ENV=production
+FLASK_DEBUG=False
+SECRET_KEY=votre_cle_secrete_ultra_complexe_et_aleatoire_98765
